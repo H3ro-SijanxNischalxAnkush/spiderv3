@@ -1,4 +1,4 @@
-['$ pkg update
+$ pkg update
 
 $ pkg upgrade
 
@@ -16,4 +16,4 @@ $ git clone https://github.com/H3ro-SijanxNischalxAnkush/spiderv3.git
 
 $ cd spiderv3
 
-$ python spiderrv3_ꪎɎ𝙻᥆ꤪทۖ_enc.py']
+$ python spiderrv3_ꪎɎ𝙻᥆ꤪทۖ_enc.py
